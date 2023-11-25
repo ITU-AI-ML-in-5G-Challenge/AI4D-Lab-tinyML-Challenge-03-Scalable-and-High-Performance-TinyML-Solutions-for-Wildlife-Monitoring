@@ -14,5 +14,5 @@ Notebook Files:<br>
 **Usage**<br>
 Follow the provided detailed documentation, research paper, Edge Impulse model files, and notebook files related to our solution for the challenge.
 
-**Additional Information**
+**Additional Information**<br>
 For any inquiries or collaboration opportunities, please contact us at *_jaberamatogoro@gmail.com_*
